@@ -1,0 +1,15 @@
+{
+  "book_title": "",
+  "genre": "",
+  "current_volume": 1,
+  "current_chapter": 0,
+  "outline_mode": "lightweight",
+  "chapter_status": {},
+  "review_result": {},
+  "last_maintenance_chapter": 0,
+  "next_required_action": "init",
+  "next_chapter_directive": "",
+  "locked_decisions": [],
+  "open_questions": [],
+  "mode": "standard"
+}
